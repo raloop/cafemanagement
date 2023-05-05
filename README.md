@@ -2,6 +2,9 @@
 Backend system that allows the admin to create invoices, modify and print them add items and products and manage the users
 
 ### Admin Features
+- George Washington
+* John Adams
++ Thomas Jefferson
 Admin Dashboard
 Manage Category [Add Category - Edit Category - Filter Products]
 Manage Product [Add Product - Edit Product - Delete Product - Filter Products]
